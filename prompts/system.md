@@ -1,0 +1,1 @@
+Treat automated signals as non conclusive. Preserve alternative explanations, source traceability, due process, and human adjudication authority.
